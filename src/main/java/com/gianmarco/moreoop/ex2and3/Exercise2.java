@@ -9,7 +9,7 @@
 // We eat pizza on Saturday
 //   1. Do it again but capitalize the meal names too. “pot roast” should become “Pot Roast”.
 
-package com.gianmarco.moreoop.ex2;
+package com.gianmarco.moreoop.ex2and3;
 
 public class Exercise2 {
 
